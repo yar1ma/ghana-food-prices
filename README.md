@@ -1,4 +1,5 @@
 # Ghana Staple Food Prices, 2006 to 2023
+Live page: https://yar1ma.github.io/ghana-food-prices/
 
 ## Question
 Which staple foods rose fastest in price, and in which markets?
